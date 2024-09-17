@@ -3,7 +3,7 @@
 ###
 
 <p align="left">👋 Hello! I'm a Junior Full Stack Developer dedicated to crafting impactful solutions. I enjoy turning ideas into functional products, focusing on intuitive use</p>
-<a  href="https://portfolio-domingoschiconela.vercel.app/" target="_black">Portfólio</a>
+<a href="https://portfolio-domingoschiconela.vercel.app/" target="_blank">Portfólio</a>
 
 ###
 
