@@ -51,11 +51,6 @@
 
 <h2 align="left">Social Media</h2>
 
-###
-
-<img src="https://raw.githubusercontent.com/DomingosChiconela/DomingosChiconela/output/snake.svg" alt="Snake animation" />
-
-###
 
 ###
 
