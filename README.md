@@ -1,9 +1,13 @@
 <h2 align="left">About me</h2>
 
 ###
-
+<div align="left">
 <p align="left">👋 Hello! I'm a Junior Full Stack Developer dedicated to crafting impactful solutions. I enjoy turning ideas into functional products, focusing on intuitive use</p>
-<a href="https://portfolio-domingoschiconela.vercel.app/" target="_blank">Portfólio</a>
+<a href="https://portfolio-domingoschiconela.vercel.app/" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfólio&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+
 
 ###
 
