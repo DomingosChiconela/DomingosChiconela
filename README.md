@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hello! I'm a Full Stack Developer dedicated to crafting impactful solutions. I enjoy turning ideas into functional products, focusing on intuitive use</p>
+<p align="left">👋 Hello! I'm a Software Developer dedicated to crafting impactful solutions. I enjoy turning ideas into functional products, focusing on intuitive use</p>
 <a href="https://portfolio-domingoschiconela.vercel.app/" target="_blank">Portfólio</a>
 </div>
 
